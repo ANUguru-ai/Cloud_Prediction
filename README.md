@@ -18,4 +18,5 @@ https://www.vonage.com/communications-apis/campaigns/nexmo-is-now-vonage-apis/?C
 
 
 #sample msg alert#
+
 ![cla](https://user-images.githubusercontent.com/62890575/83964214-02609b80-a8c9-11ea-9660-78898aef7e08.JPG)
