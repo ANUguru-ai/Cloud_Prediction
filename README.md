@@ -17,6 +17,6 @@ Cumulonimbus cloud may normally result in rain with thunder strom . This finally
 https://www.vonage.com/communications-apis/campaigns/nexmo-is-now-vonage-apis/?CMP=OBR-VONAGE-API-PFX-GOO-S_APAC_IN_EN_Brand_Nexmo_BMM&gclid=EAIaIQobChMInOHB96bv6QIVSn8rCh01hAWCEAAYASAAEgIlLPD_BwE&gclsrc=aw.ds
 
 
-#sample msg alert#
+#sample message alert#
 
 ![cla](https://user-images.githubusercontent.com/62890575/83964214-02609b80-a8c9-11ea-9660-78898aef7e08.JPG)
