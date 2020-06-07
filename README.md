@@ -1,3 +1,3 @@
 # Cloud_Prediction
-Machinelearning model uses Keras to train and test the model . The model can Easlt predict and classify clouds based on the images and classify images in five category include Cirrus, Cumulonimbus, Stratus and Cumulus clouds. The model give pretty cool Prediction resuls for real time captured images.
+Cloud prediction is a CNN model and that can be implemented using Keras. The network can easily predict clouds based among the five categories of clouds include Cirrus, Cumulonimbus, Stratus, and Cumulus. The model gives pretty cool Prediction results for real-time captured images.
 
