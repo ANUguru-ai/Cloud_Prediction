@@ -8,3 +8,12 @@ Dataset can be accessed from the link: https://drive.google.com/drive/folders/17
 #Prediction#
 
 ![classi](https://user-images.githubusercontent.com/62890575/83964001-62564280-a8c7-11ea-8632-f4a8473485ee.JPG)
+
+
+SMS alert When atmosphere is cloudy
+
+Cumulonimbus cloud may normally result in rain with thunder strom . This finally lead to flood and natural disaster so before this happens alert people from the heavy rain and thunder using SMS alet using Nexmo.
+
+https://www.vonage.com/communications-apis/campaigns/nexmo-is-now-vonage-apis/?CMP=OBR-VONAGE-API-PFX-GOO-S_APAC_IN_EN_Brand_Nexmo_BMM&gclid=EAIaIQobChMInOHB96bv6QIVSn8rCh01hAWCEAAYASAAEgIlLPD_BwE&gclsrc=aw.ds
+
+
